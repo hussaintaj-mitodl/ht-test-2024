@@ -11,6 +11,6 @@ uid: 81f5468c-9b98-4c0b-b69e-709c4f7c2ab8
 
 {{% resource_link "0c79321c-611c-4c6c-a7cf-9605704373c9" "This link" %}} does not show a modal.
 
-{{% resource_link "ba3e1a84-3fad-4752-89e4-ca2d421798ad" "Wiki Apple" %}}
+{{% resource_link "ba3e1a84-3fad-4752-89e4-ca2d421798ad" "as" %}}
 
 {{% resource_link "ba3e1a84-3fad-4752-89e4-ca2d421798ad" "\<iframe>apple\</iframe>" %}}
