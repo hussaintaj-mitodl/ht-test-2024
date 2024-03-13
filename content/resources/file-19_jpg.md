@@ -6,8 +6,8 @@ file: /courses/ht-test-site-2024/file-19.jpg
 file_size: 7481680
 file_type: image/jpeg
 image_metadata:
-  caption: '[Google](https://google.com)'
-  credit: '[Google](https://google.com)'
+  caption: '{{% resource_link "9a46fdf7-b9e3-4b41-903c-966860d56c09" "Google" %}}'
+  credit: '{{% resource_link "9a46fdf7-b9e3-4b41-903c-966860d56c09" "Google" %}}'
   image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -25,4 +25,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
-[Google](https://google.com)
+{{% resource_link "9a46fdf7-b9e3-4b41-903c-966860d56c09" "Google" %}}
