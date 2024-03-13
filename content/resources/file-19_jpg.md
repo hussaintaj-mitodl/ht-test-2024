@@ -6,8 +6,8 @@ file: /courses/ht-test-site-2024/file-19.jpg
 file_size: 7481680
 file_type: image/jpeg
 image_metadata:
-  caption: ''
-  credit: ''
+  caption: '[Google](https://google.com)'
+  credit: '[Google](https://google.com)'
   image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
