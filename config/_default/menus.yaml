@@ -1,0 +1,89 @@
+leftnav:
+- identifier: f3d0ebae-7083-4524-9b93-f688537a0317
+  name: Page
+  pageRef: /pages/page
+  weight: 10
+- identifier: 5eb7fe66-715e-4b3a-a951-42503e812b9c
+  name: Embeds and Links
+  pageRef: /pages/embeds-and-links
+  weight: 20
+- identifier: b91b7871-a083-4d20-bc48-9ac136807c95
+  name: A resource list
+  pageRef: /lists/resource-list
+  weight: 30
+- identifier: bf8257d0-bb35-41ce-9cdd-80b51150149d
+  name: A video gallery
+  pageRef: /video_galleries/video-gallery
+  weight: 40
+- identifier: 90ca54cb-b637-450d-90cd-88f13abae50b
+  name: An image gallery
+  pageRef: /pages/image-gallery
+  weight: 50
+- identifier: 31b116e3-698b-4e51-bd11-6817aceb8aff
+  name: A Quiz
+  pageRef: /pages/quiz
+  weight: 60
+- identifier: 51f2cc04-4f15-4aca-ac69-3ed31c879497
+  name: An Image
+  pageRef: /resources/file-19_jpg
+  weight: 70
+- identifier: 4b837f0b-8773-49f2-985a-7feeb195c87b
+  name: A video
+  pageRef: /resources/video_captioned_mp4
+  weight: 80
+- identifier: 48f6646f-f839-4e59-8aee-743062eb938c
+  name: A document
+  pageRef: /resources/file_new_pdf
+  weight: 90
+- identifier: external--760432549-1707469212322
+  name: A Nest
+  url: https://google.com
+  weight: 100
+- identifier: 81f5468c-9b98-4c0b-b69e-709c4f7c2ab8
+  name: External Links
+  pageRef: /pages/external-links
+  weight: 110
+- identifier: external--760432549-1707465869634
+  name: Bird
+  parent: external--760432549-1707469212322
+  url: https://google.com
+  weight: 10
+- identifier: external--760432549-1707465861926
+  name: Bird
+  parent: external--760432549-1707469212322
+  url: https://google.com
+  weight: 20
+- identifier: f24cc1d7-0985-4902-bf27-f9fc8a03e9b4
+  name: Google.com
+  parent: 81f5468c-9b98-4c0b-b69e-709c4f7c2ab8
+  weight: 10
+- identifier: be7e0a90-ad6e-4085-80f2-2b6b6f4a77fe
+  name: OCW
+  pageRef: /external-resources/ocw-broken-backed-up-by-old-site
+  parent: 81f5468c-9b98-4c0b-b69e-709c4f7c2ab8
+  weight: 20
+- identifier: 0c79321c-611c-4c6c-a7cf-9605704373c9
+  name: OCW (no warning)
+  pageRef: /external-resources/ocw-main
+  parent: 81f5468c-9b98-4c0b-b69e-709c4f7c2ab8
+  weight: 30
+- identifier: external--760432549-1709289988508
+  name: old external link
+  parent: 81f5468c-9b98-4c0b-b69e-709c4f7c2ab8
+  url: https://google.com
+  weight: 40
+- identifier: 3e670b86-52c1-49ee-9fd9-98629c28f26c
+  name: Internal Link for ref
+  pageRef: /resources/jellie8p_mp4
+  parent: 81f5468c-9b98-4c0b-b69e-709c4f7c2ab8
+  weight: 50
+- identifier: external--760432549-1707465876280
+  name: Egg
+  parent: external--760432549-1707465869634
+  url: https://google.com
+  weight: 10
+- identifier: external--760432549-1707465889531
+  name: Egg
+  parent: external--760432549-1707465869634
+  url: https://google.com
+  weight: 20
