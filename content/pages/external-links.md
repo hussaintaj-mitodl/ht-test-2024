@@ -14,3 +14,7 @@ uid: 81f5468c-9b98-4c0b-b69e-709c4f7c2ab8
 {{% resource_link "ba3e1a84-3fad-4752-89e4-ca2d421798ad" "as" %}}
 
 {{% resource_link "ba3e1a84-3fad-4752-89e4-ca2d421798ad" "\<iframe>apple\</iframe>" %}}
+
+[Facebook](https://facebook.com)
+
+[Google](https://google.com)
