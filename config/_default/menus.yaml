@@ -43,6 +43,10 @@ leftnav:
   name: External Links
   pageRef: /pages/external-links
   weight: 110
+- identifier: external--760432549-1711105390271
+  name: New Link
+  url: https://google.com
+  weight: 120
 - identifier: ff15685e-ac4e-410b-b77f-e52855120014
   name: Bird
   pageRef: /external-resources/bird_ff15685e-ac4e-410b-b77f-e52855120014
