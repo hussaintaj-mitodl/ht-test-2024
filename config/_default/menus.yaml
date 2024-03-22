@@ -83,8 +83,3 @@ leftnav:
   pageRef: /external-resources/egg_28eed437-603a-4574-8046-13716ad40c0f
   parent: ff15685e-ac4e-410b-b77f-e52855120014
   weight: 10
-- identifier: 0ce76cce-4a5f-42b7-a39d-0fdc2ef7289e
-  name: Egg
-  pageRef: /external-resources/egg_0ce76cce-4a5f-42b7-a39d-0fdc2ef7289e
-  parent: ff15685e-ac4e-410b-b77f-e52855120014
-  weight: 20
