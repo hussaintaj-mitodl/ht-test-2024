@@ -82,6 +82,16 @@ leftnav:
   pageRef: /resources/jellie8p_mp4
   parent: 81f5468c-9b98-4c0b-b69e-709c4f7c2ab8
   weight: 50
+- identifier: 76c186ea-bd90-4117-bd77-6510893c2fbd
+  name: <iframe></iframe>
+  pageRef: /external-resources/iframeiframe
+  parent: 81f5468c-9b98-4c0b-b69e-709c4f7c2ab8
+  weight: 60
+- identifier: 86031598-db1f-4f95-8f6d-2f6f773513e7
+  name: https://google.com
+  pageRef: /external-resources/httpsgooglecom
+  parent: 81f5468c-9b98-4c0b-b69e-709c4f7c2ab8
+  weight: 70
 - identifier: 28eed437-603a-4574-8046-13716ad40c0f
   name: Egg
   pageRef: /external-resources/egg_28eed437-603a-4574-8046-13716ad40c0f
