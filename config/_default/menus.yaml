@@ -47,6 +47,10 @@ leftnav:
   name: New Link
   pageRef: /external-resources/new-link_777c560c-d376-4c95-be3e-919668877ad2
   weight: 120
+- identifier: c776c414-fc1b-4809-9cef-608611b512ce
+  name: https://document.com
+  pageRef: /resources/file-15_mp4
+  weight: 130
 - identifier: ff15685e-ac4e-410b-b77f-e52855120014
   name: Bird
   pageRef: /external-resources/bird_ff15685e-ac4e-410b-b77f-e52855120014
