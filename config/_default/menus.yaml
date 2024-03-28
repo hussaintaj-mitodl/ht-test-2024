@@ -51,6 +51,10 @@ leftnav:
   name: https://document.com
   pageRef: /resources/file-15_mp4
   weight: 130
+- identifier: external--760432549-1711617249488
+  name: an external link
+  url: https://google.com
+  weight: 140
 - identifier: ff15685e-ac4e-410b-b77f-e52855120014
   name: Bird
   pageRef: /external-resources/bird_ff15685e-ac4e-410b-b77f-e52855120014
