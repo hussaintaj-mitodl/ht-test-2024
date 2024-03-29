@@ -55,6 +55,10 @@ leftnav:
   name: an external link
   url: https://google.com
   weight: 140
+- identifier: external--760432549-1711706936229
+  name: Parent
+  url: https://google.com
+  weight: 150
 - identifier: ff15685e-ac4e-410b-b77f-e52855120014
   name: Bird
   pageRef: /external-resources/bird_ff15685e-ac4e-410b-b77f-e52855120014
@@ -100,8 +104,18 @@ leftnav:
   pageRef: /external-resources/httpsgooglecom
   parent: 81f5468c-9b98-4c0b-b69e-709c4f7c2ab8
   weight: 70
+- identifier: external--1872396352-1711706947103
+  name: Child
+  parent: external--760432549-1711706936229
+  url: https://child.com
+  weight: 10
 - identifier: 28eed437-603a-4574-8046-13716ad40c0f
   name: Egg
   pageRef: /external-resources/egg_28eed437-603a-4574-8046-13716ad40c0f
   parent: ff15685e-ac4e-410b-b77f-e52855120014
+  weight: 10
+- identifier: external--760432549-1711706955491
+  name: grandchild
+  parent: external--1872396352-1711706947103
+  url: https://google.com
   weight: 10
