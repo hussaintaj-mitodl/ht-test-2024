@@ -25,4 +25,3 @@ video_metadata:
   youtube_description: ''
   youtube_id: VZHi8gpmBiU
 ---
-{{% resource_link "9a46fdf7-b9e3-4b41-903c-966860d56c09" "https://google.com" %}}
