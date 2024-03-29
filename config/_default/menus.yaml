@@ -51,13 +51,13 @@ leftnav:
   name: https://document.com
   pageRef: /resources/file-15_mp4
   weight: 130
-- identifier: external--760432549-1711617249488
+- identifier: 6ef13171-a216-4204-a7a8-e55277570513
   name: an external link
-  url: https://google.com
+  pageRef: /external-resources/an-external-link_6ef13171-a216-4204-a7a8-e55277570513
   weight: 140
-- identifier: external--760432549-1711706936229
+- identifier: b36bc6bc-06c6-4e43-9022-f5ab64716f05
   name: Parent
-  url: https://google.com
+  pageRef: /external-resources/parent_b36bc6bc-06c6-4e43-9022-f5ab64716f05
   weight: 150
 - identifier: ff15685e-ac4e-410b-b77f-e52855120014
   name: Bird
@@ -104,18 +104,18 @@ leftnav:
   pageRef: /external-resources/httpsgooglecom
   parent: 81f5468c-9b98-4c0b-b69e-709c4f7c2ab8
   weight: 70
-- identifier: external--1872396352-1711706947103
+- identifier: 1559a063-100e-4406-b95d-b9d587844b94
   name: Child
-  parent: external--760432549-1711706936229
-  url: https://child.com
+  pageRef: /external-resources/child_1559a063-100e-4406-b95d-b9d587844b94
+  parent: b36bc6bc-06c6-4e43-9022-f5ab64716f05
   weight: 10
 - identifier: 28eed437-603a-4574-8046-13716ad40c0f
   name: Egg
   pageRef: /external-resources/egg_28eed437-603a-4574-8046-13716ad40c0f
   parent: ff15685e-ac4e-410b-b77f-e52855120014
   weight: 10
-- identifier: external--760432549-1711706955491
+- identifier: 95096021-869d-4a8d-8c2f-38654728ebfe
   name: grandchild
-  parent: external--1872396352-1711706947103
-  url: https://google.com
+  pageRef: /external-resources/grandchild_95096021-869d-4a8d-8c2f-38654728ebfe
+  parent: 1559a063-100e-4406-b95d-b9d587844b94
   weight: 10
