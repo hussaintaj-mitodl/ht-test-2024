@@ -35,39 +35,27 @@ leftnav:
   name: A document
   pageRef: /resources/file_new_pdf
   weight: 90
-- identifier: a09d8034-2b97-484f-b0a3-401f389478bb
+- identifier: external--760432549-1707469212322
   name: A Nest
-  pageRef: /external-resources/a-nest_a09d8034-2b97-484f-b0a3-401f389478bb
+  url: https://google.com
   weight: 100
 - identifier: 81f5468c-9b98-4c0b-b69e-709c4f7c2ab8
   name: External Links
   pageRef: /pages/external-links
   weight: 110
-- identifier: 777c560c-d376-4c95-be3e-919668877ad2
-  name: New Link
-  pageRef: /external-resources/new-link_777c560c-d376-4c95-be3e-919668877ad2
+- identifier: 1e4971b7-b7ea-42b6-98ae-483c80fa977a
+  name: Page with RL and Embedded Images, text
+  pageRef: /pages/resource-list-with-embedded-pictures
   weight: 120
-- identifier: c776c414-fc1b-4809-9cef-608611b512ce
-  name: https://document.com
-  pageRef: /resources/file-15_mp4
-  weight: 130
-- identifier: 6ef13171-a216-4204-a7a8-e55277570513
-  name: an external link
-  pageRef: /external-resources/an-external-link_6ef13171-a216-4204-a7a8-e55277570513
-  weight: 140
-- identifier: b36bc6bc-06c6-4e43-9022-f5ab64716f05
-  name: Parent
-  pageRef: /external-resources/parent_b36bc6bc-06c6-4e43-9022-f5ab64716f05
-  weight: 150
-- identifier: ff15685e-ac4e-410b-b77f-e52855120014
+- identifier: external--760432549-1707465869634
   name: Bird
-  pageRef: /external-resources/bird_ff15685e-ac4e-410b-b77f-e52855120014
-  parent: a09d8034-2b97-484f-b0a3-401f389478bb
+  parent: external--760432549-1707469212322
+  url: https://google.com
   weight: 10
-- identifier: a94449fb-5315-406d-8267-be2274a8aa71
+- identifier: external--760432549-1707465861926
   name: Bird
-  pageRef: /external-resources/bird_a94449fb-5315-406d-8267-be2274a8aa71
-  parent: a09d8034-2b97-484f-b0a3-401f389478bb
+  parent: external--760432549-1707469212322
+  url: https://google.com
   weight: 20
 - identifier: f24cc1d7-0985-4902-bf27-f9fc8a03e9b4
   name: Google.com
@@ -84,38 +72,38 @@ leftnav:
   pageRef: /external-resources/ocw-main
   parent: 81f5468c-9b98-4c0b-b69e-709c4f7c2ab8
   weight: 30
-- identifier: bf83243f-52d0-4521-bfef-20590b8196b8
+- identifier: external--760432549-1709289988508
   name: old external link
-  pageRef: /external-resources/old-external-link_bf83243f-52d0-4521-bfef-20590b8196b8
   parent: 81f5468c-9b98-4c0b-b69e-709c4f7c2ab8
+  url: https://google.com
   weight: 40
 - identifier: 3e670b86-52c1-49ee-9fd9-98629c28f26c
   name: Internal Link for ref
   pageRef: /resources/jellie8p_mp4
   parent: 81f5468c-9b98-4c0b-b69e-709c4f7c2ab8
   weight: 50
-- identifier: 76c186ea-bd90-4117-bd77-6510893c2fbd
+- identifier: dbc91fb4-91c0-4477-994c-fba9db49052a
   name: <iframe></iframe>
   pageRef: /external-resources/iframeiframe
   parent: 81f5468c-9b98-4c0b-b69e-709c4f7c2ab8
   weight: 60
-- identifier: 86031598-db1f-4f95-8f6d-2f6f773513e7
+- identifier: da6838a7-c03e-4f5c-95aa-dc0c59e17753
   name: https://google.com
   pageRef: /external-resources/httpsgooglecom
   parent: 81f5468c-9b98-4c0b-b69e-709c4f7c2ab8
   weight: 70
-- identifier: 1559a063-100e-4406-b95d-b9d587844b94
-  name: Child
-  pageRef: /external-resources/child_1559a063-100e-4406-b95d-b9d587844b94
-  parent: b36bc6bc-06c6-4e43-9022-f5ab64716f05
-  weight: 10
-- identifier: 28eed437-603a-4574-8046-13716ad40c0f
+- identifier: cbf8be2f-9bf7-477a-ae1d-abb43520c67f
+  name: Title Test
+  pageRef: /external-resources/tiltle-test
+  parent: 81f5468c-9b98-4c0b-b69e-709c4f7c2ab8
+  weight: 80
+- identifier: external--760432549-1707465876280
   name: Egg
-  pageRef: /external-resources/egg_28eed437-603a-4574-8046-13716ad40c0f
-  parent: ff15685e-ac4e-410b-b77f-e52855120014
+  parent: external--760432549-1707465869634
+  url: https://google.com
   weight: 10
-- identifier: 95096021-869d-4a8d-8c2f-38654728ebfe
-  name: grandchild
-  pageRef: /external-resources/grandchild_95096021-869d-4a8d-8c2f-38654728ebfe
-  parent: 1559a063-100e-4406-b95d-b9d587844b94
-  weight: 10
+- identifier: external--760432549-1707465889531
+  name: Egg
+  parent: external--760432549-1707465869634
+  url: https://google.com
+  weight: 20
