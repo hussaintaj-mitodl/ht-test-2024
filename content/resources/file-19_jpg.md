@@ -25,4 +25,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
-[OCW](https://ocw.mit.edu)
+{{% resource_link "be7e0a90-ad6e-4085-80f2-2b6b6f4a77fe" "OCW" %}}
