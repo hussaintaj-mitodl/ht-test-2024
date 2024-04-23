@@ -27,4 +27,6 @@ uid: 81f5468c-9b98-4c0b-b69e-709c4f7c2ab8
 
 {{% resource_link "7bf7ff23-89c3-4045-a246-d670bfdeed67" "yet3" %}}
 
-[yet-4](https://yet-4.com)
+{{% resource_link "5ff37007-9875-44cf-827a-afbf8cc15010" "yet-4" %}}
+
+[yet-5](https://yet-5.com)
