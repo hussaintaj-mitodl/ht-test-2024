@@ -21,4 +21,6 @@ uid: 81f5468c-9b98-4c0b-b69e-709c4f7c2ab8
 
  
 
-[linkdylinky](https://yet-another.com)
+{{% resource_link "086b5e89-1b14-4ef1-990f-2887184df78d" "linkdylinky" %}}
+
+[yet2](https://yet-2.com)
