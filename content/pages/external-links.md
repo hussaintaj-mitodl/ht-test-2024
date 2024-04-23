@@ -23,4 +23,6 @@ uid: 81f5468c-9b98-4c0b-b69e-709c4f7c2ab8
 
 {{% resource_link "086b5e89-1b14-4ef1-990f-2887184df78d" "linkdylinky" %}}
 
-[yet2](https://yet-2.com)
+{{% resource_link "a6eafcaf-2856-4c0b-a3a1-7b8440e25708" "yet2" %}}
+
+[yet3](https://yet-3.com)
