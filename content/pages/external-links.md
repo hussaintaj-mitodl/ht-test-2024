@@ -21,4 +21,4 @@ uid: 81f5468c-9b98-4c0b-b69e-709c4f7c2ab8
 
  
 
-{{% resource_link "62e54a9d-f297-415d-a28c-eed78377bc79" "***markydownylinky***" %}}
+[***markydownylinky***](https://google-new.com)
