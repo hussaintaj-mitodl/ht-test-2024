@@ -35,9 +35,9 @@ leftnav:
   name: A document
   pageRef: /resources/file_new_pdf
   weight: 90
-- identifier: b13e276a-509c-47ca-bd98-18e237b2bff2
+- identifier: 3e28a70c-8bbb-473c-ad66-8e9b2bd10108
   name: A Nest
-  pageRef: /external-resources/a-nest_b13e276a-509c-47ca-bd98-18e237b2bff2
+  pageRef: /external-resources/a-nest_3e28a70c-8bbb-473c-ad66-8e9b2bd10108
   weight: 100
 - identifier: 81f5468c-9b98-4c0b-b69e-709c4f7c2ab8
   name: External Links
@@ -47,15 +47,15 @@ leftnav:
   name: Page with RL and Embedded Images, text
   pageRef: /pages/resource-list-with-embedded-pictures
   weight: 120
-- identifier: 1b895eb9-bd57-44bd-8809-573bcff55007
+- identifier: 229d7abf-cfc9-45ba-8e77-01d433ccc2b1
   name: Bird
-  pageRef: /external-resources/bird_1b895eb9-bd57-44bd-8809-573bcff55007
-  parent: b13e276a-509c-47ca-bd98-18e237b2bff2
+  pageRef: /external-resources/bird_229d7abf-cfc9-45ba-8e77-01d433ccc2b1
+  parent: 3e28a70c-8bbb-473c-ad66-8e9b2bd10108
   weight: 10
-- identifier: 11ef13b8-c357-4a23-876f-63fdf39e988a
+- identifier: ef509e06-97b4-4e04-b05a-e43f5c6ad3d4
   name: Bird
-  pageRef: /external-resources/bird_11ef13b8-c357-4a23-876f-63fdf39e988a
-  parent: b13e276a-509c-47ca-bd98-18e237b2bff2
+  pageRef: /external-resources/bird_ef509e06-97b4-4e04-b05a-e43f5c6ad3d4
+  parent: 3e28a70c-8bbb-473c-ad66-8e9b2bd10108
   weight: 20
 - identifier: f24cc1d7-0985-4902-bf27-f9fc8a03e9b4
   name: Google.com
@@ -72,9 +72,9 @@ leftnav:
   pageRef: /external-resources/ocw-main
   parent: 81f5468c-9b98-4c0b-b69e-709c4f7c2ab8
   weight: 30
-- identifier: 30aae89c-b155-4f97-8003-3bc1cc0a4bdb
+- identifier: f8b88591-5ebb-40e1-99fe-54f81ec4164a
   name: old external link
-  pageRef: /external-resources/old-external-link_30aae89c-b155-4f97-8003-3bc1cc0a4bdb
+  pageRef: /external-resources/old-external-link_f8b88591-5ebb-40e1-99fe-54f81ec4164a
   parent: 81f5468c-9b98-4c0b-b69e-709c4f7c2ab8
   weight: 40
 - identifier: 3e670b86-52c1-49ee-9fd9-98629c28f26c
@@ -97,13 +97,13 @@ leftnav:
   pageRef: /external-resources/tiltle-test
   parent: 81f5468c-9b98-4c0b-b69e-709c4f7c2ab8
   weight: 80
-- identifier: af2cedce-e0f7-4183-8eab-b309f7507d9a
+- identifier: 2b40f83e-504f-42ad-8ee4-dc6132f55dba
   name: Egg
-  pageRef: /external-resources/egg_af2cedce-e0f7-4183-8eab-b309f7507d9a
-  parent: 1b895eb9-bd57-44bd-8809-573bcff55007
+  pageRef: /external-resources/egg_2b40f83e-504f-42ad-8ee4-dc6132f55dba
+  parent: 229d7abf-cfc9-45ba-8e77-01d433ccc2b1
   weight: 10
-- identifier: a59340d9-37f9-40a4-b4ab-8eeaaa061fa5
+- identifier: 3dfad562-4dd7-4240-a295-a53ee5c6b9a6
   name: Egg
-  pageRef: /external-resources/egg_a59340d9-37f9-40a4-b4ab-8eeaaa061fa5
-  parent: 1b895eb9-bd57-44bd-8809-573bcff55007
+  pageRef: /external-resources/egg_3dfad562-4dd7-4240-a295-a53ee5c6b9a6
+  parent: 229d7abf-cfc9-45ba-8e77-01d433ccc2b1
   weight: 20
